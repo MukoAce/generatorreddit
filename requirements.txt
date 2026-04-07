@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+moviepy
+requests
+python-multipart
+gTTS
+jinja2
